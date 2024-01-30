@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my personal portfolio repository. This portfolio showcases my work, skills, and experience as a developer. You can explore the live website [here](https://alpha97-personel-portfolio.vercel.app/).
+Welcome to my personal portfolio repository. This portfolio showcases my work, skills, and experience as a developer. You can explore the live website [here](https://incandescent-lamington-b2873c.netlify.app/).
 
 ![Portfolio Screenshot](./public/portfolio.png)
 
