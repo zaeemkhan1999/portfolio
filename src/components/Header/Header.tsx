@@ -8,7 +8,7 @@ import MobileMenu from "../MobileMenu/MobileMenu";
 const Header = () => {
   return (
     <div className={styles.header}>
-      <h1 className={styles.logo}>Muhammad Zaeem Khan</h1>
+      <h1 className={styles.logo}>Zaeem</h1>
       {navItems &&
         navItems.map((item) => (
           <Link href={item.url} key={item.id} className={styles.navItem}>
